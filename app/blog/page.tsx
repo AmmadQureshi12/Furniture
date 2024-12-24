@@ -8,7 +8,7 @@ const BlogLayout = () => {
       title: "Going all-in with millennial design",
       category: "Wood",
       date: "14 Oct 2022",
-      image: "https://via.placeholder.com/600x300", // Replace with actual image
+      image: "https://media.istockphoto.com/id/1415799772/photo/home-interior-with-vintage-furniture.jpg?s=612x612&w=0&k=20&c=E5aUyAFo5_xjHcdk0nEZGVDipOkYEtyXQmJBskUbqo8=", // Replace with actual image
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
@@ -17,7 +17,7 @@ const BlogLayout = () => {
       title: "Exploring new ways of decorating",
       category: "Handmade",
       date: "14 Oct 2022",
-      image: "https://via.placeholder.com/600x300", // Replace with actual image
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVQPqmxL7psT20FWF129ZklG5bNUA6mA9Ng&s", // Replace with actual image
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },

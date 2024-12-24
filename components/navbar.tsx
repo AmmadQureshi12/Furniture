@@ -10,6 +10,7 @@ import {
   SheetTitle,
 } from "./ui/sheet";
 import { Menu } from "lucide-react";
+import { FaUsers } from "react-icons/fa";
 
 export const Navbar = () => {
   return (
@@ -17,8 +18,8 @@ export const Navbar = () => {
       <div className="max-w-7xl mx-auto w-full  flex justify-between">
         <div className="flex items-center gap-2 ">
             <img src="Logos-05.svg" alt="" />
-          <h1 className="text-2xl font-bold text-gray-700">
-            Furniro
+          <h1 className="text-3xl font-bold text-gray-800">
+            AQ
           </h1>
         </div>
         <div className="gap-x-24 hidden md:flex items-center justify-center mx-auto ">
@@ -80,7 +81,7 @@ export const Navbar = () => {
                 <div className="p-2 gap-2 flex  ">
                   <span>
                     {" "}
-                    <User />
+                    <FaUsers />
                   </span>
                 </div>
                 <div className="flex mt-6 gap-4">
